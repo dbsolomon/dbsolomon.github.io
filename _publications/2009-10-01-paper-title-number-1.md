@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Implementing a Human Factors Approach to RCA^2: A Qualitative Case Study"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/20202-10-01-HFACS-RCA
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ' Journal of Healthcare Risk Management'
+paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/jhrm.21454'
+citation: 'Wiegmann, D. A., Wood, L. J., Solomon, D. B., & Shappell, S. A. (2020). Implementing a human factors approach to RCA2: Tools, processes and strategies. Journal of Healthcare Risk Management.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We also present qualitative results from an 18-month implementation study within a large academic health center. Results demonstrate how HFACS-RCA2 can foster a more comprehensive, human bfactors analysis of serious patient harm events and the identification of broader system interventions.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jhrm.21454)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wiegmann, D. A., Wood, L. J., Solomon, D. B., & Shappell, S. A. (2020). Implementing a human factors approach to RCA2: Tools, processes and strategies. Journal of Healthcare Risk Management..
